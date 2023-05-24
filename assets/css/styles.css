@@ -1,0 +1,53 @@
+.cuerpo {
+    background-color:hsla(197, 100%, 50%, 0.788);
+}
+
+.losTitulos{
+    color:whitesmoke;
+    text-align: center;
+    text-shadow: 0 0 3px navy, 0 0 5px #0000FF;
+}
+
+.fondoPresupuesto{
+    background-color: dodgerblue;
+    border: 5px solid navy;
+    border-radius: 12px;
+    margin-bottom:2%;
+}
+
+.fondoGasto{
+    background-color: dodgerblue;
+    border: 5px solid navy;
+    border-radius: 12px;
+    margin-top: 2%;
+}
+
+.fondoRegistro1{
+    background-color: hsl(199, 100%, 50%);
+    border: 5px solid navy;
+    border-radius: 12px;
+    margin-bottom:2%;
+    text-decoration: underline
+}
+
+.fondoRegistro2{
+    background-color: hsl(199, 100%, 50%);
+    border: 5px solid navy;
+    border-radius: 12px;
+    margin-top:2%;
+    text-decoration: underline
+}
+
+#btnCalcular {
+    color: white;
+    font-weight: bold;
+    background-color: darkblue;
+    border-color: navy;
+}
+
+#btnAnadirGasto {
+    color: white;
+    font-weight: bold;
+    background-color: darkblue;
+    border-color: navy;
+}
